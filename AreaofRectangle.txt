@@ -1,0 +1,14 @@
+class AreaofRectangle
+
+{
+  public static void main(String args[])
+
+{
+   int length,breagth,area;
+   length=Integer.parseLn(args[0]);
+   breagth=Integer.parseLn(args[1]);
+   area=length*brigth;
+  System.out.println("Area of RECTANGLE"+area);
+}
+
+}
